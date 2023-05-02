@@ -1,6 +1,8 @@
 # WGU-Computer-Science-Capstone
 Computer Science capstone
 
+Languages: Python
+
 Please use the main branch if you want to use the application
 
 This is my capstone for WGU that uses image recognition to classify images of happy and sad people
